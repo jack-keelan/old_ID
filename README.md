@@ -1,2 +1,1 @@
-# old_ID
-old iso ID methods &amp; data parsing
+This is the readme for isoID!
